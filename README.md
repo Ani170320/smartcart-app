@@ -3,6 +3,7 @@
 SmartCart is a modern budget and expense management web application built with **Next.js** and **React**.  
 It helps users track spending, manage multiple budgets, set savings goals, and gain insights through visual analytics.
 
+https://smartcart-app-three.vercel.app/
 ---
 
 ## 🚀 Features
